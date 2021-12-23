@@ -18,4 +18,4 @@ Convert xml files into JSON.
 
 Minify the file by removing extra spaces.
 
-compress the file to reduce its size.
+Compress the file to reduce its size and decompress it back.
